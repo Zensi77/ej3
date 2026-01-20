@@ -1,2 +1,5 @@
-if __name__ == "__main__":
+def main():
     print("Hola")
+
+if __name__ == "__main__":
+    main()
